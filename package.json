@@ -50,7 +50,7 @@
     "babel-preset-stage-1": "^6.24.1",
     "babel-register": "^6.24.1",
     "express": "^4.16.2",
-    "flow-bin": "^0.60.1",
+    "flow-bin": "^0.63.0",
     "jest": "^21.2.1",
     "jsdoc": "^3.5.5",
     "jsdoc-babel": "^0.3.0",
