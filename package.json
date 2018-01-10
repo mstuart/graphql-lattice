@@ -51,7 +51,7 @@
     "babel-register": "^6.24.1",
     "express": "^4.16.2",
     "flow-bin": "^0.60.1",
-    "jest": "^21.2.1",
+    "jest": "^22.0.5",
     "jsdoc": "^3.5.5",
     "jsdoc-babel": "^0.3.0",
     "kitsune-jsdoc-template": "^1.0.3",
